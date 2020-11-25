@@ -12,7 +12,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonBrightness&layout=compact&hide=html" alt="sujalgoel" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MadisonBrightness&show_icons=true" alt="sujalgoel" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MadisonBrightness&show_icons=true&theme=radical" alt="sujalgoel" /></p>
 <p align="center">
 
 </p>
