@@ -12,7 +12,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadisonBrightness&show_icons=true&theme=radical" alt="MadisonBrightness" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,glsl,typescript" alt="MadisongBrightness" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonBrightness&layout=compact&hide=css,glsl,typescript" alt="MadisongBrightness" /></p>
 <p align="center">
 
 </p>
