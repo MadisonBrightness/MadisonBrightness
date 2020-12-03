@@ -14,7 +14,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonBrightness&layout=compact&hide=css,glsl,typescript" alt="MadisongBrightness" /></p>
 <p align="center">
-
+  
+<p align="center">&nbsp;<img align="center" src="https://top.gg/api/widget/738994704196304946.svg?usernamecolor=FFFFFF&topcolor=f781bc" alt="MadisonBrightness" /></p>
 </p>
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
